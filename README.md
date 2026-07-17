@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=willy-henrique&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willy-henrique&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=willy-henrique&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&disable_animations=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willy-henrique&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br&disable_animations=true" height="165" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=willy-henrique&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" alt="GitHub Streak"/>
 
