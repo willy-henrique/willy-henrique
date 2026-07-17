@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software** (6º semestre) — Goiânia, GO 🇧🇷
+- 🎓 Estudante de **Engenharia de Software** (8º semestre) — Goiânia, GO 🇧🇷
 - 🚀 Desenvolvo **sistemas de verdade em produção**: ERP industrial com emissão de NF-e, plataformas com IA para varejo, painéis administrativos e apps de gestão
 - 💡 Apaixonado por transformar problemas de negócio em software — do banco de dados ao deploy
 - 🌱 Atualmente aprofundando em **arquitetura de sistemas, integrações fiscais e agentes de IA**
@@ -45,15 +45,25 @@
 
 </div>
 
-## 🚀 Projetos em destaque
+## 🚀 Produtos em produção
+
+> Sistemas comerciais que desenvolvi e mantenho para empresas reais — código privado 🔒
+
+| Produto | Descrição | Stack |
+|---------|-----------|-------|
+| 🏭 **WillTech ERP** | ERP industrial completo com módulo fiscal, emissão de **NF-e** e gestão de produção, estoque e precificação | `Next.js` `Firebase` `TypeScript` |
+| 🧠 **Mavo.AI** | Plataforma cognitiva com **IA multiagente** para automação no varejo | `Next.js` `PostgreSQL` `pgvector` |
+| 🎣 **Pesque & Pague** | Sistema de gestão para pesqueiros com portal do cliente via **QR Code** | `Next.js` `Firebase` `Tailwind` |
+
+## 💻 Projetos públicos
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 🏭 [**WillTech ERP**](https://github.com/willy-henrique/WillTech-ERP) | ERP industrial completo com módulo fiscal, emissão de **NF-e** e gestão de produção | `Next.js` `Firebase` `TypeScript` |
-| 🧠 [**Mavo.AI**](https://github.com/willy-henrique/mavoai) | Plataforma cognitiva com **IA multiagente** para automação no varejo | `Next.js` `PostgreSQL` `pgvector` |
-| 🎣 [**Pesque & Pague**](https://github.com/willy-henrique/pesque-pague) | Sistema de gestão para pesqueiros com portal do cliente via **QR Code** | `Next.js 16` `Firebase` `Tailwind v4` |
-| 🛠️ [**AquiResolve**](https://github.com/willy-henrique/dashboard_admin) | Painel administrativo de ordens de serviço em tempo real | `Next.js` `Firebase` `TypeScript` |
-| 🎮 [**Dama Online**](https://github.com/willy-henrique/dama-online) | Jogo de damas multiplayer online | `JavaScript` |
+| 🛠️ [**AquiResolve — Painel Admin**](https://github.com/willy-henrique/dashboard_admin) | Painel administrativo de ordens de serviço em tempo real: kanban, chat e gestão de prestadores | `Next.js` `Firebase` `TypeScript` |
+| 📱 [**AquiResolve — Site**](https://github.com/willy-henrique/AquiResolvee) | Site institucional da plataforma de serviços | `Next.js` `Tailwind` |
+| 🎮 [**Dama Online**](https://github.com/willy-henrique/dama-online) | Jogo de damas multiplayer online em tempo real | `JavaScript` |
+| 📊 [**WillyPI**](https://github.com/willy-henrique/WillyPI) | Dashboard de indicadores de processos para indústria de ráfia | `TypeScript` |
+| 🌐 [**Portfólio**](https://github.com/willy-henrique/lang-page-willy) | Minha landing page pessoal | `Next.js` `TypeScript` |
 
 ## 📊 Estatísticas
 
